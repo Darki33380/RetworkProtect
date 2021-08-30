@@ -4,11 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node your-script.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xkyrux/xkyrux-Sleepless-DiscordJS-tutorial-bot.git"
+    "url": "g" "https://github.com/Darki33380/RetworkProtect"
   },
   "author": "",
   "license": "ISC",
